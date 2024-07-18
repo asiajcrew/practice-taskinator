@@ -8,4 +8,4 @@ var createTaskHandler = function() {
     taskItemEl.className = "task-item"
 }
 
-buttonEl.addEventListener("click", createTaskHandler);~
+buttonEl.addEventListener("click", createTaskHandler);
